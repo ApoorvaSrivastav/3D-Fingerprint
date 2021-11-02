@@ -6,6 +6,6 @@ For applying the Photometric Stereo on the real-world objects and finger, I desi
 
 The research is still ongoing in refining the outputs against specularity and sub-surface scattering in finger skin.
 Following are the intermediate results:
-![alt text](https://github.com/ApoorvaSrivastav/Photometric-Stereo/blob/master/model1.jpg?raw=true)
-![alt text](https://github.com/ApoorvaSrivastav/Photometric-Stereo/blob/master/model2.jpg?raw=true)
-![alt text](https://github.com/ApoorvaSrivastav/Photometric-Stereo/blob/master/model3.jpg?raw=true)
+![alt text](https://github.com/ApoorvaSrivastav/Photometric-Stereo/blob/main/model1.JPG)
+![alt text](https://github.com/ApoorvaSrivastav/Photometric-Stereo/blob/main/model2.JPG)
+![alt text](https://github.com/ApoorvaSrivastav/Photometric-Stereo/blob/main/model3.JPG)
